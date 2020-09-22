@@ -1,0 +1,19 @@
+{
+    "name": "vdxas/test",
+    "description": "Pastestuosim",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vaidas",
+            "email": "vaidas.stumbras@gmail.com"
+        }
+    ],
+	"autoload": {
+        "psr-4": {
+            "vdxas\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
