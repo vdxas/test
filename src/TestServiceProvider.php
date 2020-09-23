@@ -1,6 +1,6 @@
 <?php
 
-namespace Vdxas\Testsss;
+namespace Vdxas\Test;
 
 use Illuminate\Support\ServiceProvider;
 
