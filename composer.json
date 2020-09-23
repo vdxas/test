@@ -10,10 +10,23 @@
         }
     ],
 	"autoload": {
+		"classmap": [
+			"classmap"
+		],
         "psr-4": {
-            "vdxas\\": "src/"
+            "Vdxas\\Test\\": "src"
         }
     },
+	"extra": {
+		"laravel": {
+			"providers": [
+                "Vdxas\\Service\\src\\TestServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+	},
     "minimum-stability": "dev",
     "require": {}
 }
