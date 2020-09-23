@@ -14,6 +14,6 @@
             "vdxas\\": "src/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "",
     "require": {}
 }
