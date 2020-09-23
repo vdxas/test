@@ -17,7 +17,7 @@
 	"extra": {
 		"laravel": {
 			"providers": [
-                "Vdxas\\Test\\src\\TestServiceProvider"
+                "Vdxas\\Test\\TestServiceProvider"
             ],
             "aliases": {
                 
