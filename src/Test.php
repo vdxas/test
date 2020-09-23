@@ -4,6 +4,6 @@ namespace vdxas;
 
 class Test {
 	public function vdx(String $sName) {
-		return 'Hi ' . $sName;
+		return 'Labas ' . $sName;
 	}
 }
